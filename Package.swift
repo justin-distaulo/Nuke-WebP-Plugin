@@ -86,6 +86,7 @@ let package = Package(
                 "libwebp/iosbuild.sh",
                 "libwebp/CMakeLists.txt",
                 "libwebp/README.webp_js",
+                "libwebp/tests"
             ],
             publicHeadersPath: "WebP",
             cSettings: [
